@@ -1,0 +1,5 @@
+{
+  "name": "Simple Dashboard Builder",
+  "description": "A simple, elegant dashboard builder that uses the Gemini API to dynamically generate sample data for charts and graphs, allowing users to create and customize their own data visualizations.",
+  "requestFramePermissions": []
+}
